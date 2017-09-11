@@ -8,4 +8,4 @@ setTimeout(function(){
     head.removeChild(style);
 }, 0);
 
-//require respond.js which would work for IE6~IE8
+//=require ../node_modules/respond.js/dest/respond.min.js

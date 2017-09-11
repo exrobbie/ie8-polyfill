@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-ie8",
+  "name": "bs-ie8",
   "version": "1.0.0",
   "description": "IE8 polyfill for Bootstrap",
   "main": "index.js",
@@ -18,5 +18,11 @@
   "homepage": "https://github.com/exrobbie/bootstrap-ie8#readme",
   "dependencies": {
     "respond.js": "^1.4.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-include": "^2.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
   }
 }
