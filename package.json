@@ -1,6 +1,6 @@
 {
   "name": "bs-ie8",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "IE8 polyfill for Bootstrap",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/exrobbie/bootstrap-ie8#readme",
   "dependencies": {
+    "html5shiv": "^3.7.3",
     "respond.js": "^1.4.2"
   },
   "devDependencies": {
