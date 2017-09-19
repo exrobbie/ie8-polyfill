@@ -1,6 +1,6 @@
 {
   "name": "bs-ie8",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "IE8 polyfill for Bootstrap",
   "main": "index.js",
   "scripts": {
