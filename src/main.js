@@ -8,4 +8,13 @@ setTimeout(function(){
     head.removeChild(style);
 }, 0);
 
+/**
+ * respond.js
+ */
 //=require ../node_modules/respond.js/dest/respond.min.js
+
+/**
+ * html5shiv.js
+ */
+
+//=require ../node_modules/html5shiv/dist/html5shiv.min.js

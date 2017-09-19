@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/exrobbie/bootstrap-ie8#readme",
   "dependencies": {
+    "html5shiv": "^3.7.3",
     "respond.js": "^1.4.2"
   },
   "devDependencies": {
