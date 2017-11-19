@@ -8,11 +8,8 @@ gulp.task('js', () => {
     return gulp.src('./src/main.js')
         .pipe(include())
         .pipe(uglify())
-        .pipe(rename('bs-ie8.js'))
+        .pipe(rename('bs-polyfill.js'))
         .pipe(gulp.dest('./dist'))
 });
-
-
-
 
 gulp.task('default', ['js']);

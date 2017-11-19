@@ -1,7 +1,7 @@
 {
-  "name": "bs-ie8",
-  "version": "0.0.4",
-  "description": "IE8 polyfill for Bootstrap",
+  "name": "ie8-polyfill",
+  "version": "0.0.5",
+  "description": "Polyfill for IE8+",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
