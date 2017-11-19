@@ -4,7 +4,7 @@ IE8 polyfills for Bootstrap 3
 ## Install
 
 ```bash
-npm i bs-ie8
+npm i ie8-polyfill
 ```
 
 ## Usage
@@ -16,3 +16,4 @@ Append the following code in the **head** element.
 <script src='bs-ie8.js'></script>
 <![endif]-->
 ```
+
