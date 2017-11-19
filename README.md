@@ -1,4 +1,4 @@
-# bs-ie8
+# ie8-polyfill
 IE8 polyfills for Bootstrap 3
 
 ## Install
@@ -13,7 +13,7 @@ Append the following code in the **head** element.
 
 ```html
 <!--[if lt IE 9]>
-<script src='bs-ie8.js'></script>
+<script src='ie8-polyfill.js'></script>
 <![endif]-->
 ```
 
