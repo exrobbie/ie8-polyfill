@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exrobbie/bootstrap-ie8.git"
+    "url": "git+https://github.com/exrobbie/ie8-polyfill.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/exrobbie/bootstrap-ie8/issues"
+    "url": "https://github.com/exrobbie/ie8-polyfill/issues"
   },
-  "homepage": "https://github.com/exrobbie/bootstrap-ie8#readme",
+  "homepage": "https://github.com/exrobbie/ie8-polyfill#readme",
   "dependencies": {
     "html5shiv": "^3.7.3",
     "respond.js": "^1.4.2"
