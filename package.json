@@ -1,6 +1,6 @@
 {
   "name": "ie8-polyfill",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Polyfill for IE8+",
   "main": "index.js",
   "scripts": {
