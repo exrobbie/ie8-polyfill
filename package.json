@@ -1,10 +1,10 @@
 {
   "name": "ie8-polyfill",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Polyfill for IE8+",
   "main": "index.js",
   "scripts": {
-    "build":"gulp build",
+    "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
