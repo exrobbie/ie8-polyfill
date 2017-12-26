@@ -1,10 +1,10 @@
 # ie8-polyfill
-IE8 polyfills for Bootstrap 3
+IE8 polyfills
 
 ## Install
 
 ```bash
-npm i ie8-polyfill
+npm i -S ie8-polyfill
 ```
 
 ## Usage
@@ -16,4 +16,8 @@ Append the following code in the **head** element.
 <script src='ie8-polyfill.js'></script>
 <![endif]-->
 ```
+
+## Build
+
+Run `npm run build` if you would like to build your own code.
 
